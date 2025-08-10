@@ -8,7 +8,7 @@ function sum (a, b) {
  * @returns {number} El factorial de n, o NaN si n es negativo.
  */
 function factorial(n) {
-  if (n < 0) {
+  if (n <= 0) {
     return NaN; // El factorial no está definido para números negativos.
   }
   if (n === 0 || n === 1) {

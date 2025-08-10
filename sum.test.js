@@ -1,4 +1,4 @@
-const { sum, factorial, fibonacci } = require('./math');
+const { sum, factorial, fibonacci } = require('./sum');
 
 describe('sum', () => {
   test('Suma de 1 + 2 debe dar 3', () => {

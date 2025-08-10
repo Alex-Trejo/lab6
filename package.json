@@ -16,8 +16,15 @@
     "express": "^5.1.0"
   },
   "devDependencies": {
-    "eslint": "^9.32.0",
+    "eslint": "^9.33.0",
     "jest": "^30.0.5"
-  }
-  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Trejo/lab6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alex-Trejo/lab6/issues"
+  },
+  "homepage": "https://github.com/Alex-Trejo/lab6#readme"
 }
